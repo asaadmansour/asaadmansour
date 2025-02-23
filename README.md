@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/asaad-mansour" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="https://fb.com/asaad.mansour" target="_blank">
+  <a href="[https://fb.com/asaad.mansour](https://www.facebook.com/share/1ANFhEUy5E/?mibextid=wwXIfr)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50"/>
   </a>
   <a href="https://instagram.com/asaadmansour_" target="_blank">
