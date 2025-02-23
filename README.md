@@ -11,7 +11,7 @@
 - 🔭 Currently working on **exciting full-stack projects**  
 - 💡 Exploring **advanced back-end architecture & system design**  
 - 📫 Reach me at: **as89aadmansour@gmail.com**  
-- ⚡ Fun fact: I love solving **LeetCode** challenges & learning about **Kubernetes**  
+- ⚡ Fun fact: I thrive under pressure and love tackling busy, challenging environments—it’s where I do my best work!  
 
 ---
 
