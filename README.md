@@ -10,7 +10,7 @@
 ### 📌 About Me  
 - 🔭 Currently working on **exciting full-stack projects**  
 - 💡 Exploring **advanced back-end architecture & system design**  
-- 📫 Reach me at: **as89aadmansour@gmail.com**  
+- 📫 Reach me at: **asaad.mansourr@gmail.com**  
 - ⚡ Fun fact: I thrive under pressure and love tackling busy, challenging environments—it’s where I do my best work!  
 
 ---
