@@ -15,24 +15,6 @@
 
 ---
 
-### 🔗 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/asaad-mansour" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010394449484&mibextid=wwXIfr&rdid=1Dn6eBnH43zMHpOa&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ANFhEUy5E%2F%3Fmibextid%3DwwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/asaadmansour_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/asaadmansour" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack  
 
 <p align="center">
