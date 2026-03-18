@@ -8,10 +8,10 @@
 I love tackling complex problems, building scalable and maintainable systems, and optimizing database performance.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaadmansour)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/asaadmansour)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/asaadmansour_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-📍 Cairo, Egypt | 🎓 Business Informatics Graduate | 💼 ITI-OSAD DevOps Track
+📍 Cairo, Egypt | 🎓 Business Informatics Graduate | 💼 ITI-OSAD Track
 
 </div>
 
