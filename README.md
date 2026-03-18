@@ -122,14 +122,7 @@ Retro-style space shooter built with vanilla JavaScript.
 </td>
 <td width="50%">
 
-### 🔗 More Projects
-Check out my repositories for:
-- **Microservices architectures**
-- **Database optimization demos**
-- **Algorithm solutions (LeetCode)**
-- **Full-stack applications**
 
-[![View Repositories](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asaadmansour?tab=repositories)
 
 </td>
 </tr>
@@ -147,9 +140,6 @@ Check out my repositories for:
 
 ---
 
-<div align="center">
-
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asaadmansour&color=blue&style=flat-square)
 
