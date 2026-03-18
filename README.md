@@ -81,10 +81,6 @@ Full-stack platform connecting vendors, organizers, venues, and attendees.
 
 **Tech:** Node.js • Express.js • MongoDB • MySQL • Stripe
 
-**Highlights:**
-- ✅ RBAC & JWT authentication
-- ✅ Connection pooling & rate limiting
-- ✅ Handles 500+ concurrent requests
 
 </td>
 <td width="50%">
@@ -96,10 +92,6 @@ Complete bookstore with admin dashboard and customer storefront.
 
 **Tech:** Node.js • Express.js • MongoDB • Angular • JWT
 
-**Highlights:**
-- ✅ Dual-token authentication
-- ✅ Transactional order processing
-- ✅ Rate limiting (300 req/15min)
 
 </td>
 </tr>
@@ -114,10 +106,6 @@ Retro-style space shooter built with vanilla JavaScript.
 
 **Tech:** JavaScript • HTML5 Canvas • OOP
 
-**Highlights:**
-- ✅ Collision detection algorithms
-- ✅ Real-time state management
-- ✅ 60 FPS performance
 
 </td>
 <td width="50%">
